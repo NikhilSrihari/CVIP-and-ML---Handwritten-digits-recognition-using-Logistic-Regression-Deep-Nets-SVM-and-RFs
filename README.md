@@ -6,4 +6,4 @@ Recognize the given image as one of the digits in 0-9 using the following ML mod
 3. Dense NNs and CNNs from Keras and Tensorflow
 4. SVM from Scikit-Learn\
 
-Finally, an ensemble classifier of the above base models is also built.
+Finally, a max-voting ensemble classifier of the above base models is also built.
